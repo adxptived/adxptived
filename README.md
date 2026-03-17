@@ -1,20 +1,15 @@
 <div align="center">
 
-# adxptived
+<h1>adxptived</h1>
 
-backend • systems • minimal
-
-</div>
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adxptived&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adxptived&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+<pre>
+██╗  ██╗ ██████╗ ██████╗ ███████╗
+██║  ██║██╔═══██╗██╔══██╗██╔════╝
+███████║██║   ██║██████╔╝█████╗  
+██╔══██║██║   ██║██╔═══╝ ██╔══╝  
+██║  ██║╚██████╔╝██║     ███████╗
+╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚══════╝
+</pre>
 
 </div>
 
@@ -22,6 +17,22 @@ backend • systems • minimal
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=adxptived&style=flat&color=6c63ff"/>
+<i>systems • backend • low noise</i>
+
+</div>
+
+---
+
+## activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adxptived&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=adxptived&style=flat&color=8b5cf6"/>
 
 </div>
