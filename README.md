@@ -2,16 +2,7 @@
 
 # adxptived
 
-
-</div>
-
----
-
-## 🧩 Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,github,vscode&theme=dark" />
+backend • systems • minimal
 
 </div>
 
