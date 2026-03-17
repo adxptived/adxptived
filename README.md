@@ -2,7 +2,6 @@
 
 # adxptived
 
-code • minimal • aesthetic
 
 </div>
 
