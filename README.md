@@ -4,8 +4,6 @@
 
 # Shinoa
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Game+Developer+%F0%9F%8E%AE;Backend+Engineer+%F0%9F%94%A7;Unity+%26+C%23+Enthusiast;Python+Craftsman" alt="Typing SVG" />
-
 </div>
 
 ---
