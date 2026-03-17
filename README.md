@@ -12,8 +12,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adxptived&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adxptived&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adxptived&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adxptived&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=adxptived&style=flat&color=blueviolet"/>
 
 </div>
 
